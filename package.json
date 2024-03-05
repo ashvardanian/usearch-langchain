@@ -1,0 +1,12 @@
+{
+  "name": "usearch-langchain",
+  "type": "module",
+  "dependencies": {
+    "@langchain/community": "^0.0.34",
+    "@langchain/openai": "^0.0.16",
+    "usearch": "^2.9.2"
+  },
+  "resolutions": {
+    "@langchain/community/usearch": "^2.9.2"
+  }
+}
